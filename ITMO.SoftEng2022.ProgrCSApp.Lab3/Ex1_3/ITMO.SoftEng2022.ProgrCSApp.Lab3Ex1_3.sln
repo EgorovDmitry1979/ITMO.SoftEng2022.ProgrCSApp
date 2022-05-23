@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.SoftEng2022.ProgrCSApp.Lab3Ex1_3", "\Desktop-iu5ofqe\рабочая папка\5_Инженер программист\03_Программирование на С#\Практика\Lab3\ITMO.SoftEng2022.ProgrCSApp.Lab3Ex1_3\ITMO.SoftEng2022.ProgrCSApp.Lab3Ex1_3.csproj", "{6EDD4EFC-BDDE-45CF-A948-6DE4D5628D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDD4EFC-BDDE-45CF-A948-6DE4D5628D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDD4EFC-BDDE-45CF-A948-6DE4D5628D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDD4EFC-BDDE-45CF-A948-6DE4D5628D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDD4EFC-BDDE-45CF-A948-6DE4D5628D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3FD796-E522-4CB9-B4F5-B38350430E52}
+	EndGlobalSection
+EndGlobal
