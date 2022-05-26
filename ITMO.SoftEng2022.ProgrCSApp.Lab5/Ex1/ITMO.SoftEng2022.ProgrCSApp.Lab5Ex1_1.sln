@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.SoftEng2022.ProgrCSApp.Lab5Ex1_1", "ITMO.SoftEng2022.ProgrCSApp.Lab5Ex1_1.csproj", "{CDDFD3DD-2C16-438E-9D6B-BA4D8CD2AF12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDFD3DD-2C16-438E-9D6B-BA4D8CD2AF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDFD3DD-2C16-438E-9D6B-BA4D8CD2AF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDFD3DD-2C16-438E-9D6B-BA4D8CD2AF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDFD3DD-2C16-438E-9D6B-BA4D8CD2AF12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2C703B-A86B-45DF-A147-C7193D5BA3A3}
+	EndGlobalSection
+EndGlobal
